@@ -4,6 +4,7 @@ a {
     letter-spacing: 1px;
     text-align: center;
     display: block;
+    font-family: 'Oswald', Arial, Helvetica, sans-serif;
 }
 
 p {
@@ -31,8 +32,15 @@ h2, ul {
     background: green;
 }
 
+.hdimg {
+    display: inline;
+}
 
-
+.hdimg img {
+    max-width: 1.5%;
+    max-height: 1.5%;
+    margin: 5px;
+}
 
 .category-info {
     text-align: center;
