@@ -1,8 +1,9 @@
-li, a {
-    font-size: 17px;
+a {
+    font-size: 25px;
     line-height: 2;
     letter-spacing: 1px;
     text-align: center;
+    display: block;
 }
 
 p {
@@ -10,6 +11,7 @@ p {
     letter-spacing: 1px;
     text-align: center;
     font-size: 25px;
+    font-family: 'Oswald', Arial, Helvetica, sans-serif;
 }
 
 h2, ul {
@@ -29,6 +31,9 @@ h2, ul {
     background: green;
 }
 
+
+
+
 .category-info {
     text-align: center;
     margin-bottom: 20px;
@@ -41,6 +46,7 @@ h2, ul {
 
 .pages {
     font-size: 50px;
+    font-family: 'Oswald', Arial, Helvetica, sans-serif;
 }
 
 .image h3 {
@@ -51,6 +57,7 @@ h2, ul {
 }
 
 .headers {
+    font-family: 'Oswald', Arial, Helvetica, sans-serif;
     position: absolute;
     width: 100%;
     margin-top: 10px;
@@ -61,7 +68,7 @@ h2, ul {
     position:absolute;
     width:100%;
     color:white;
-    font-family: 'Noto Serif', Arial, Helvetica, sans-serif;
+    font-family: 'Oswald', Arial, Helvetica, sans-serif;
     line-height:200px;
     margin-top: 300px;
     font-size: 180px;
