@@ -10,3 +10,7 @@ backImage.onclick = function() {
         backImage.setAttribute('src', '/images/background.jpg');
     }
 }
+
+var headers = document.querySelectorAll('.mainHeaders');
+
+
