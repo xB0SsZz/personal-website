@@ -3,7 +3,7 @@ a {
     line-height: 2;
     letter-spacing: 1px;
     text-align: center;
-    display: block;
+    display: inline;
     font-family: 'Oswald', Arial, Helvetica, sans-serif;
 }
 
@@ -85,6 +85,11 @@ body {
     display: block;
     margin-left: auto;
     margin-right: auto;
+    width: 100%;
+}
+
+.contacts {
+    position: absolute;
     width: 100%;
 }
 
